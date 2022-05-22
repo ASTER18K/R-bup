@@ -1,5 +1,5 @@
-R - O
-T - X
-R1 - X
-4 - X
-/bup/
+- R - O
+- T - X
+- R1 - X
+- 4 - X
+- /bup/
